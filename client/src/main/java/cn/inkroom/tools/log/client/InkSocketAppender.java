@@ -1,4 +1,4 @@
-package cn.inkroom.software.log.client;
+package cn.inkroom.tools.log.client;
 
 import org.apache.log4j.AppenderSkeleton;
 import org.apache.log4j.Layout;
